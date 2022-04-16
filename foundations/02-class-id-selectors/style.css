@@ -1,0 +1,20 @@
+.odd{
+    background-color: rgba(255, 0, 0, 0.2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#n2 {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#n4 { 
+    background-color: rgba(0, 255, 0, 0.4);
+    font-size: 24px;
+    font-weight: bold;
+
+}
